@@ -1,1 +1,3 @@
-this is my first file that i have pushed in the github
+this is my first file that i have pushed in the github.
+
+i have learned git from many several platforms and not i will be pushing code into github.
